@@ -1,1 +1,1 @@
-# nge-holochain-starterkit
+# nge-hc-starterkit
